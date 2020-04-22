@@ -42,6 +42,9 @@ it becomes an edittext and you can modify its content
 # We can also 
 We can also change the color of icons like that :
 
+`app:setButtonDrawableColor="@color/colorPrimary"
+ app:setEditRightDrawableColor="@color/colorPrimary"`
+
 ![normal](https://user-images.githubusercontent.com/62241965/79981327-c9996e00-84a4-11ea-88f4-e5a11f0cef76.png)
 
 # Java
