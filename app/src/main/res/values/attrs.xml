@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="OptionsView">
+        <attr name="setEmbEditTextBackColor" format="color" />
+        <attr name="setEmbEditTextBackground" format="reference" />
+        <attr name="setEmbEditTextTextColor" format="color" />
+        <attr name="setEmbEditTextTextSize" format="dimension" />
+        <attr name="setEmbEditTextPadding" format="dimension" />
+        <attr name="setEmbEditTextHint" format="string" />
+        <attr name="setEmbEditTextDisplayText" format="string" />
+
+        <attr name="setBackColor" format="color" />
+        <attr name="setBackground" format="reference" />
+        <attr name="setTextColor" format="color" />
+        <attr name="setTextSize" format="dimension" />
+        <attr name="setPadding" format="dimension" />
+        <attr name="setHint" format="string" />
+        <attr name="setText" format="string" />
+
+        <attr name="setButtonDrawableColor" format="color" localization="suggested" />
+        <attr name="setEditRightDrawableColor" format="color" localization="suggested" />
+    </declare-styleable>
+</resources>
