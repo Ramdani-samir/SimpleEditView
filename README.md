@@ -48,7 +48,7 @@ We can also change the color of icons like that :
 ![normal](https://user-images.githubusercontent.com/62241965/79981327-c9996e00-84a4-11ea-88f4-e5a11f0cef76.png)
 
 # Java
-you can fin the view by its ID, and also you can retrieve all views contains this element(edittextview).
+you can find the view by its ID, and also you can retrieve all views contains this element(edittextview).
 
 `@Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
